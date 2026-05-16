@@ -38,7 +38,7 @@ currently in the middle of a transition that matters to me:
 developer  ──────────────────────────►  engineer
   (writes code)                    (understands systems)
        │
-       └── still here, moving fast
+       └── 🚋here, moving fast
 ```
 
 ---
